@@ -1,0 +1,41 @@
+# Chatbot RAG System Requirements
+
+# Core Dependencies
+langchain==0.1.0
+langchain-community==0.0.10
+langchain-openai==0.0.2
+
+# PDF Processing
+pypdf==3.17.4
+PyPDF2==3.0.1
+pdf2image==1.16.3
+pillow==10.1.0
+
+# OCR - Tesseract
+pytesseract==0.3.10
+opencv-python==4.8.1.78
+
+# Embeddings & Vector Store
+sentence-transformers==2.2.2
+openai==1.6.1
+tiktoken==0.5.2
+
+# PostgreSQL & pgvector
+psycopg2-binary==2.9.9
+pgvector==0.2.4
+sqlalchemy==2.0.23
+
+# Text Processing
+nltk==3.8.1
+
+# API & Web
+flask==3.0.0
+flask-cors==4.0.0
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Utilities
+numpy==1.26.2
+pandas==2.1.4
+tqdm==4.66.1
+
