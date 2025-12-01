@@ -8,7 +8,7 @@ cd chatbot
 pip install -r requirements_chatbot.txt
 ```
 
-### Step 2: Setup PostgreSQL
+### Step 2: Setup PostgreSQL & pgvector
 
 #### Option A: Docker (Termudah)
 ```bash
@@ -20,7 +20,7 @@ docker run --name maggot-postgres \
 ```
 
 #### Option B: Manual Install
-Lihat: [POSTGRESQL_INSTALL.md](POSTGRESQL_INSTALL.md)
+Lihat: [DATABASE_SETUP_GUIDE.md](DATABASE_SETUP_GUIDE.md) untuk panduan lengkap install PostgreSQL & pgvector
 
 ### Step 3: Configure Environment
 ```bash

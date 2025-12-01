@@ -113,6 +113,7 @@ DELETE /api/documents/{id}
 
 ## 📚 Dokumentasi Lengkap
 
+- **[Database Setup Guide](DATABASE_SETUP_GUIDE.md)** - Panduan install PostgreSQL & pgvector
 - **[OCR Setup Guide](OCR_SETUP_GUIDE.md)** - Panduan install Tesseract
 - **[Postman Testing Guide](POSTMAN_TESTING_GUIDE.md)** - Testing dengan Postman
 - **[Quick Start Guide](QUICK_START.md)** - Panduan cepat
